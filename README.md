@@ -1,3 +1,3 @@
 # Letho: A true hero
  Its an Text based game.....
-If you want to check just run this code to your console app.Thank you.
+If you want to play just run this code to your console app.Thank you.
